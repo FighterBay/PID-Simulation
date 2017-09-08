@@ -9,3 +9,4 @@ angular_acceleration = torque/moment_inertia
 Double integrate the above term to get angular displacement and voila?
 
 
+![alt text](https://raw.githubusercontent.com/FighterBay/PID-Simulation/master/pid_graph.png)
