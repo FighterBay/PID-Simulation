@@ -155,7 +155,7 @@ msg = to_string(start_roll) + "\n";
         cout<<"Sending failed. :(";
         return 1;
     }
-    puts("Data Sent\n");
+    cout<<"Data Sent\n";
 
 usleep(dt * 1000000);
 }
